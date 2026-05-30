@@ -10,6 +10,7 @@ The dataset consists of simulated XMRI gravitational-wave signals embedded in Ti
 Two data files are provided:
 
 A_channel.txt: TDI A-channel data containing xMRI signal plus TianQin instrumental noise.
+
 E_channel.txt: TDI E-channel data containing xMRI signal plus TianQin instrumental noise.
 
 These datasets were used to validate and test the xMRI gravitational-wave data analysis pipeline presented in the paper.
