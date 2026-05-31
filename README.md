@@ -6,7 +6,7 @@ This repository contains the simulated time-domain data used in the paper:
 
 ## Description
 
-The dataset consists of simulated XMRI gravitational-wave signals embedded in **TianQin** detector noise and projected onto the Time-Delay Interferometry (TDI) channels.
+The dataset consists of simulated **XMRI** gravitational-wave signals embedded in **TianQin** detector noise and projected onto the Time-Delay Interferometry (TDI) channels.
 
 - **Signal (A, E)**:  
   `XMRI_A_time.npy` – TDI A‑channel XMRI signal  
