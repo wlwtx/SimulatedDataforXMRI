@@ -1,12 +1,12 @@
 # Simulated Data for XMRI
 
-This repository contains the simulated data used in the paper:
+This repository contains the simulated time-domain data used in the paper:
 
 "Constructing a gravitational wave analysis pipeline for extremely large-mass-ratio inspirals"
 
 ## Description
 
-The dataset consists of simulated XMRI gravitational-wave signals embedded in TianQin detector noise and projected onto the Time-Delay Interferometry (TDI) channels.
+The dataset consists of simulated XMRI gravitational-wave signals embedded in **TianQin** detector noise and projected onto the Time-Delay Interferometry (TDI) channels.
 
 - **Signal (A, E)**:  
   `XMRI_A_time.npy` – TDI A‑channel XMRI signal  
